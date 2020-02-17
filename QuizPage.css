@@ -25,18 +25,10 @@ body{
 .margin{
     margin: 15px; 
 }
-/* .form{
-    width: 95%;
-    border-bottom: 1px solid yellow;
-    color: yellow;
-    padding: 5px;
-    margin-left:50%;
-    transform: translateX(-50%);
-} */
 #submit{
     padding-top: 30px;
     padding-bottom: 15px;
-    text-align: center;       
+    text-align: center;    
 }
 #btn{
     padding: 10px 20px;
@@ -44,6 +36,7 @@ body{
     font-size: 16px;
     background-color: yellow;
     border: none;
+    outline: none;
 }
 #result-page{
     width: 100%;

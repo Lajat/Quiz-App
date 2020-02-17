@@ -116,7 +116,7 @@ submitButton.onclick = function() {
     result.innerHTML = count + "/" + response.length;
     console.log(result.innerHTML);
     resultPage.style.display = "block";
-    submit.style.display = 'none';
+    // submit.style.display = 'none';
 }
 tryAgainBtn.onclick = function() {
     location.reload();
